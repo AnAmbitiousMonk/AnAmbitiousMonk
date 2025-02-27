@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AnAmbitiousMonk/AnAmbitiousMonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,20 +11,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rishabh Bhardwaj</h1>
-<h3 align="center">AI Engineer | LLMOps | Generative AI | 2X Founder</h3>
+<h1 align="center">Hi 👋, I'm AnAmbitiousMonk</h1>
+<h3 align="center">Chasing mastery, optimizing the reward, one step at a time. 🏹🚀</h3>
 
-🔭 I’m currently working on **democratizing LLMs in the SaaS industry**  
-🌱 I’m currently learning **scalable AI infrastructure, LangChain, and multi-modal AI**  
-💬 Ask me about **LLMs, LangChain, MLOps, Cloud AI, and Backend for AI**  
-📫 How to reach me: **rishabhb932@gmail.com**  
-📄 Know about my experiences: **[LinkedIn Profile](https://www.linkedin.com/in/rishabh-bhardwaj)**  
+🔭 I’m currently working on **democratizing LLMs and pushing the boundaries of AI**  
+🌱 I’m currently exploring **Reinforcement Learning, scalable AI infrastructure, and multi-modal AI**  
+💬 Ask me about **LLMs, LangChain, RL, MLOps, and AI Infrastructure**  
+📫 How to reach me: **your_email@example.com**  
+📄 Know about my experiences: **[LinkedIn Profile](https://www.linkedin.com/in/your-profile)**  
 
 ---
 
 ## **🔗 Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-bhardwaj)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhb932)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnAmbitiousMonk)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)  
 
 ---
@@ -36,7 +34,7 @@ Here are some ideas to get you started:
 ### **🔹 AI & Machine Learning**  
 ![LLMOps](https://img.shields.io/badge/-LLMOps-blue) ![LangChain](https://img.shields.io/badge/-LangChain-yellow)  
 ![OpenAI API](https://img.shields.io/badge/-OpenAI_API-blue) ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-orange)  
-![Vector Databases](https://img.shields.io/badge/-Vector_Databases-red)  
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement_Learning-red)  
 
 ### **🔹 Backend & Cloud**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-green) ![Django](https://img.shields.io/badge/-Django-black)  
@@ -58,9 +56,9 @@ Here are some ideas to get you started:
 ---
 
 ## **📊 GitHub Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabhb932&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnAmbitiousMonk&theme=dark)  
 
 ---
 
 ## **🎯 Support & Collaboration**  
-If you're working on **LLM-powered AI applications, scaling AI infrastructures, or exploring AI startup ideas**, let’s connect! 🚀  
+If you're working on **LLM-powered AI applications, reinforcement learning, or exploring AI startup ideas**, let’s connect! 🚀  
