@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rishabh Bhardwaj</h1>
 
 🔭 I’m currently working on **democratizing LLMs and pushing the boundaries of AI**  
+
 🌱 I’m currently exploring **Reinforcement Learning, scalable AI infrastructure, and multi-modal AI**  
+
 💬 Ask me about **LLMs, LangChain, RL, MLOps, and AI Infrastructure**  
+
 📫 How to reach me: **rishabhb932@gmail.com**  
+
 📄 Know about my experiences: **[LinkedIn Profile](https://www.linkedin.com/in/rishabh-bhardwaj-0269a5103/)**  
 
 ---
